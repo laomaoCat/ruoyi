@@ -1,6 +1,8 @@
 -- ----------------------------
 -- 1、存储每一个已配置的 jobDetail 的详细信息
 -- 111111 测试成功
+-- 2222222 测试成功
+-- 23333333 测试成功
 -- ----------------------------
 drop table if exists QRTZ_JOB_DETAILS;
 create table QRTZ_JOB_DETAILS (
